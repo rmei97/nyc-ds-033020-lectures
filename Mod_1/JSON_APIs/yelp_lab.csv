@@ -1,0 +1,465 @@
+,Business ID,Name,Address,Rating,Price
+0,sCC7-hSdCkNPExejZT9BAQ,The MasalaWala,"179 Essex St, New York, NY 10002",4.5,$$
+1,HEs6llkn3wIP1ATXeIZQew,Pippali,"129 E 27th St, New York, NY 10016",4.0,$$
+2,kS2CP48K66yL2TwIhUqy_A,Tamarind,"99 Hudson St, New York, NY 10013",4.0,$$$
+3,9pMhRYYgV7E9L7pzECtJKA,The Drunken Munkey - UES,"338 E 92nd St, New York, NY 10128",4.5,$$
+4,_7BGw3YFNOTzP1Www3zB7g,Mughlai Grill,"6 Clinton St, New York, NY 10002",4.5,$$
+5,7DUPGtHqVZHJ3yIufbWLsg,Malai Marke Indian Cuisine,"318 E 6th St, New York, NY 10003",4.0,$$
+6,x0k5kFArHLijdY8-NEQ7Xg,Bengal Tiger Indian Food,"58 W 56th St, Fl 2, New York, NY 10019",4.5,$$
+7,_z2_1TE_1brlvljiGtJ4mA,Aahar Indian Cuisine,"10 Murray St, New York, NY 10007",4.5,$$
+8,NgD-6ogFGc_c4z5_Ur4k2g,Dhaba Indian Cuisine,"108 Lexington Ave, New York, NY 10016",3.5,$$
+9,iXSuNKKUBIrBX7zUerlQDQ,Benares,"45 Murray St, New York, NY 10007",4.0,$$
+10,CO3lm5309asRY7XG5eXNgg,Rahi,"60 Greenwich Ave, New York, NY 10011",4.5,$$$
+11,BXoW0AUDE7WZJcY-Vhqlbg,Indian Table,"234 Court St, Brooklyn, NY 11201",4.5,$$
+12,jYhbUh1TV7SCfPxjIhVpcg,Baar Baar,"13 E 1st St, New York, NY 10003",4.0,$$$
+13,V2A9Leycc5_FEpgQC34i7Q,India Kitchen,"493 9th Ave, New York, NY 10018",4.0,$$
+14,Xl-zlT0NLLiKhym88em22w,Adda Indian Canteen,"31-31 Thomson Ave, Long Island City, NY 11101",4.0,$$
+15,eTzH9lmkmouNlmuJ77i8Ow,Angaar,"283 Columbus Ave, New York, NY 10023",4.5,$$
+16,objNX6cuj1JyUijFjw21Qw,Raju's Drunk Munky,"31 Cornelia St, New York, NY 10014",4.5,$$
+17,3dZsX3mqbVsLEXPwMYKPsw,Zaika New York,"230 E 44th St, New York, NY 10017",4.5,$$
+18,FvnExtQHPfz_crDCBTQ1iQ,Mint Masala,"95 Macdougal St, New York, NY 10012",4.0,$$
+19,ut-560tVcs2g-ZU0Y_qqHQ,Saar Indian Bistro,"241 W 51st St, New York, NY 10019",4.5,$$
+20,ZikqL-flwV2XYlKtL2UfmA,Rangoli Exquisite Indian Cuisine,"1393 A 2nd Ave, New York, NY 10021",4.5,$$
+21,QqrEF8_ZQCGi63cL10J5oA,Chola,"232 E 58th St, New York, NY 10022",4.0,$$
+22,FXDMFBM-rV2s5MHzA33d2g,Bombay Grill House,"764 9th Ave, New York, NY 10019",4.0,$$
+23,yKQZqmCbk3EkGC5ajHgEGg,Amma,"246 E 51st St, New York, NY 10022",4.0,$$$
+24,7USPKYeaAfxl0Ch9j_1l7A,Moti Mahal Delux,"1149 1st Ave, New York, NY 10065",4.0,$$
+25,rn6SmSqAYx2kLFIAxytMMQ,Kajitsu,"125 E 39th St, New York, NY 10016",4.0,$$$$
+26,WWpOWqOgS9ClYvxYVzR0lg,Tikka Indian Grill,"185 Grand St, Brooklyn, NY 11211",4.0,$$
+27,wm10mMj_41_-l_gRhRH3TA,deep indian kitchen - indikitch,"940 8th Ave, New York, NY 10019",4.0,$$
+28,ZqOxAKVZEZTa4XS4zthp3Q,Bombay Grill,"1176 Bedford Ave, Brooklyn, NY 11216",4.5,$$
+29,Na55QhymZh3cje8Ac2vCvg,Nimbooda,"664 Washington Ave, Brooklyn, NY 11238",4.0,$$
+30,Nt7vyXyaxnyXpP4NNgrSvw,Joy Indian Restaurant,"301 Flatbush Ave, Brooklyn, NY 11217",3.5,$$
+31,YDtIHtfvWd4W36wq6UAjoA,Kitchen Grill Indian Restaurant,"914A Fulton St, Brooklyn, NY 11238",4.5,$$
+32,gsZUN1Vtpd3P7rdvANbrmg,Indian Kitchen,"739 Grand St, Williamsburg, NY 11211",4.0,$$
+33,zVLG_O3AQnvQ53PSJ5mTMA,Om Restaurant,"1593 2nd Ave, New York, NY 10028",4.0,$$
+34,sCHiXF4mZcsiY8_cBHNiqw,deep indian kitchen - indikitch,"25 W 23rd St, New York, NY 10010",4.0,$$
+35,Z_fT0KLZV3y80LHUMlmbig,Khiladi NYC,"175 Avenue B, New York, NY 10009",4.5,
+36,BPyt7S9TdcR1u571iacg7g,The Kati Roll Company,"49 W 39th St, New York, NY 10018",4.0,$
+37,EKY8DwZVWpkgv6IWrepbWg,Namaste,"195 5th Ave, Brooklyn, NY 11217",4.0,$$
+38,A-ert0jDRBfku9ogyW_mEg,Spice Symphony,"150 E 50th St, New York, NY 10022",4.5,$$
+39,m9Q9x-Hcxp24gZCaTTJY-A,Sahib,"104 Lexington Ave, New York, NY 10016",4.0,$$
+40,iXrKGRzIZK0pp31mO3nBzA,Spice & Grill : The Indian Kitchen,"441 Myrtle Ave, Brooklyn, NY 11205",4.0,$$
+41,WSesw7dMYKmF3XHqD0K0WQ,Asya Indian Restaurant,"46 Henry St, Brooklyn, NY 11201",3.5,$$
+42,JSX6Pk56w4BhgO8eSvCrKg,aRoqa,"206 9th Ave, New York, NY 10011",4.0,$$
+43,Va_mnsEvBghHXvc7uZIWJQ,Spice Symphony,"182 Lexington Ave, New York, NY 10016",4.0,$$
+44,xDERYqY7CbIx4aAlKsLy-A,Tikka Indian Grill,"396 5th Ave, Park Slope, NY 11215",4.5,$$
+45,k1XZsff99d2JyX_jLwCaAA,Taj Mahal Indian Restaurant,"7315 3rd Ave, Brooklyn, NY 11209",4.0,$$
+46,GaxVczLK1qUuJHOP9VcFsQ,Ananda,"210 Thompson St, New York, NY 10012",4.0,$$
+47,_PAMFizVae51vlVYHy3dxQ,Sapphire,"2014 Broadway, New York, NY 10023",2.5,
+48,jJYQJGygWjIX6_0MiIoJRQ,Ashoka on 2nd Avenue,"1718 2nd Ave, New York, NY 10128",4.5,$$
+49,HsEmXckXmsRAAEVDFCGYYg,Namaste,"31-15 30th Ave, Astoria, NY 11102",4.0,$$
+0,dGE1Imqoz1vdHa2cjfvO1w,Gandhi Fine Indian Cuisine,"2032 Bedford Ave, Brooklyn, NY 11226",4.0,$$
+1,DZE4ThXa7d0kSXnR3Hb-kg,Junoon,"27 W 24th St, New York, NY 10010",3.5,$$$
+2,_R6EjbrynW_LFnmWoRqgww,Surya,"154 Bleecker St, New York, NY 10012",4.0,$$
+3,guwS_mhhUjOT5d8sYfEluQ,Adyar Ananda Bhavan,"1071 1st Ave, New York, NY 10022",4.0,$$
+4,HGNqWrRYJNyhJSS8yia8HQ,Ruchi,"120 Cedar St, New York, NY 10006",3.5,$$
+5,SB4t6vWpxlVQAfCQ3oC1BQ,Curry Heights,"151 Remsen St, Brooklyn, NY 11201",3.5,$$
+6,uucP1LoFyamFS0qDwgMXbg,Ghandi Cafe,"283 Bleecker St, New York, NY 10014",4.0,$$
+7,dOQjniOt57mI9l9CmrCSJQ,Curry India,"148 W 49th St, New York, NY 10019",4.0,$$
+8,Q7wFlNr4OFU0eCJXcOmopg,Bombay's Indian Restaurant,"60 Pearl St, New York, NY 10004",3.5,$$
+9,lxNU-aBq0yPwBDx-i89ahA,Seva Indian Cuisine,"3007 34th St, Astoria, NY 11103",4.5,$$
+10,ik7LcD1fkzVbVQ6Sntd4LA,Indian Spice,"351 7th Ave, Brooklyn, NY 11215",4.0,$$
+11,qhXIW0LDT4XsoN2IE6dZHg,Ahimsa Garden,"265 E 10th St, New York, NY 10009",4.5,$$
+12,V2oWqXcoJkgGeIPOaS9eDA,Masala Times Greenwich Village,"194 Bleecker St, New York, NY 10012",4.0,$$
+13,jf3JRaxUYU93x8LFU-8gkA,GupShup,"115 E18th St, New York, NY 10003",4.0,$$$
+14,5z7OuOWuZRu6byp2XDKbQw,Saravanaa Bhavan,"81 Lexington Ave, New York, NY 10016",3.5,$$
+15,jG3XHl8Bkw5KEwAI93ciVw,Nirvana,"346 Lexington Ave, New York, NY 10016",3.5,$$
+16,4Kv4EVmrQ8TdlSD7MW0wHg,Babu Ji,"22 E 13th St, New York, NY 10003",3.5,$$
+17,Pv51B3SzP4OqUbJncEeF1g,Masala Grill,"501B Atlantic Ave, Brooklyn, NY 11217",3.5,$$
+18,t6PzD4uzBOfyCLcd_lT8cQ,Sathi,"216 3rd Ave, New York, NY 10003",4.5,$$
+19,-MXQI-AjTJViEekzs_5_8A,Corner Delhi,"447 Bergen St, Brooklyn, NY 11217",4.0,$$
+20,maXkjUEZGWrKF7BFrrUUXQ,King of Tandoor,"600 Flatbush Ave, Brooklyn, NY 11225",4.0,$$
+21,w2-VGvlBCMYo9ko8Y_PzAw,Masala King,"64 E 34th St, New York, NY 10016",4.0,$$
+22,HY7Hx-z5lq1vAacDwYBfoA,Diwan Grill Indian Cuisine,"678 Franklin Ave, Brooklyn, NY 11238",4.0,$$
+23,1_pK5aQ47atF50oAKHADhA,Indian Accent,"123 W 56th St, New York, NY 10019",4.5,$$$$
+24,SP4bvMvxel_UPdof_er3HA,Taco Mahal,"73 7th Ave S, New York, NY 10014",4.5,$$
+25,1SgiWHlFN5mp5gNLSGx2Ww,Panna II Garden Indian Restaurant,"93 1st Ave, New York, NY 10003",3.0,$$
+26,xWUL-j6TQyKQHIfOtetu-Q,HanGawi,"12 E 32nd St, New York, NY 10016",4.0,$$$
+27,NhBUzlITbu3rdjm9UEfWsw,Raj's Indian Kitchen,"27-18 Queens Plz S, Long Island City, NY 11101",4.0,$
+28,8vYGvXF4OyKv2KV0-iIxrA,Tikka Indian Grill,"34-14 30th Ave, Astoria, NY 11103",4.5,$$
+29,yLcJTiE4n_w4sZwSfMZYZA,Bombay Kabab,"54 7th Ave, Brooklyn, NY 11217",4.0,
+30,1F0Msl92xYTctkifFYwVCQ,LIC Grill Indian and American Cuisine,"3944 21st, Queens, NY 11101",4.5,
+31,EPHhPGDFvnq2ARTBxAikuw,Milon,"93 1st Ave, New York, NY 10003",3.5,$$
+32,xeIhR9gx0OsTdoQ0mmEUsA,Badshah,"788 9th Ave, New York, NY 10019",4.0,$$
+33,jvPYm9rYK-5ddnjU30Oz4Q,Avant Garden,"130 E 7th St, New York, NY 10009",4.5,$$$
+34,RkPakW9XloEm-QB0eNlHmw,indi thai,"123 Allen St, New York, NY 10029",4.5,
+35,uqBBk5o9McSEYQ88CG6yHg,deep indian kitchen - indikitch,"109 W 37th St, New York, NY 10018",4.0,$$
+36,Ohi-o00luDtU7TMpVtJHJw,Blossom,"187 9th Ave, New York, NY 10011",4.0,$$$
+37,OD1CCNpXwUvXB9P6WkTy9A,Tandoor Palace,"88 Fulton St, New York, NY 10038",3.5,$
+38,bFUVp77ApNkACqXvgiekPQ,Bhatti Indian Grill,"100 Lexington Ave, New York, NY 10016",3.5,$$
+39,PEEw2ip9VrmiMBP4b6op_g,Govinda's Vegetarian,"305 Schermerhorn St, Brooklyn, NY 11217",4.5,$
+40,DOdbSGm9ULZlVz-1-Jjhmg,Chote Nawab,"115 Lexington Ave, New York, NY 10016",3.5,$$
+41,uVRau5cd-OpqWIA-qsCiJA,All About Indian Food,"443 Bushwick Ave, Brooklyn, NY 11206",4.0,$$
+42,9eZrG8nANKuoyGSqdj_gew,Ashoka Grill,"1436 Flatbush Ave, Brooklyn, NY 11210",4.0,$$
+43,aLnt6DwRxlSm8xD9nuEEmA,Mumbai Place,"655 Vanderbilt Ave, Brooklyn, NY 11238",4.0,$$
+44,80u4xIY1kp_25AUh9BW0Bw,Kanan Indian Restaurant,"452 3rd Ave, Brooklyn, NY 11215",4.0,$$
+45,PdzL9svqapSqH4o8bF86Pw,Punjabi Grocery & Deli,"114 E 1st St, New York, NY 10009",4.5,$
+46,aM4h2RwyHyngSDehB_qq3g,Dawat Haute Indian Cuisine,"210 E 58th St, New York, NY 10022",3.5,$$$
+47,hfCU-GH8GP6vjAknXUyhKQ,Cardamom,"43-45 43rd St Queens Blvd, Sunnyside, NY 11104",4.5,$$
+48,MtZaEGCm6zdAV8W4TWlerQ,Masti Indian Grill & Chatt Bar,"184 Havemeyer St, New York, NY 11211",4.5,
+49,gc5VOvoqzM8UQJwV1mhdkA,Taj Kabab King,"568 Grand St, Brooklyn, NY 11211",3.5,$$
+0,yV7brOiTLS3Lmwws8e3nXA,Dil-e Punjab Deli,"170 9th Ave, New York, NY 10011",4.5,$
+1,JCFEtB6jJXbOMJ7_ZUpD3g,Spice Grill,"48 W 48th St, New York, NY 10036",3.5,$$
+2,NzU2hb0z0jGEOOv0-zTLEQ,Sigiri,"91 1st Ave, New York, NY 10003",4.0,$$
+3,fCxjrytrEw_l9vGjSCzszg,Paisley,"429 Greenwich St, New York, NY 10013",4.5,
+4,_-EQR2vNYg-b1eZwAgp6JQ,Tanoreen,"7523 3rd Ave, Brooklyn, NY 11209",4.0,$$
+5,Gxlxu7Rug2tM_V7sS4x6fQ,Tadka Indian Cuisine,"13-15 43rd Ave, Long Island City, NY 11101",4.0,
+6,lnI9toC-uAhBIbtHDMxvcA,Indika House,"943 Broadway, Brooklyn, NY 11206",5.0,$$
+7,LWghzX6Vsw1ytEFP6lA8oA,Apna Masala Indian Cuisine,"344 E 6th St, New York, NY 10003",3.5,$$
+8,XgqIDfU6tKPUdRxRG5uDNw,Desi Deli Indian Restaurant,"724 10th Ave, New York, NY 10019",3.5,$
+9,jb-Fe1cC3ZARF9xyFvJQYQ,Tandoor Oven,"175 E 83rd St, New York, NY 10028",3.5,$$
+10,QHZxlt8nFqycBrxxizwKmA,Taj Masala,"256 Malcolm X Blvd, Brooklyn, NY 11233",4.0,$$
+11,tXZOJhUUknjTRRo9j4ckZg,Farida Central Asian Cuisine & Grill,"498 9th Ave, New York, NY 10018",4.0,$$
+12,MP8Ey2ezsDCSowR-1X6hKg,Dosa Royale,"258 Dekalb Ave, Brooklyn, NY 11205",3.5,$$
+13,wQjQHZKH_DxwntbSe1QdxQ,Brick Lane Curry House,"79 2nd Ave, New York, NY 10003",3.5,$$
+14,iGIr7N3UlcidQ0FlPBSK4A,Mumtaz Indian Restaurant,"1582 York Ave, New York, NY 10028",3.5,$$
+15,VC1udoc_sbHdFaBr0-bMsA,Bombay Chowk,"1378 1st Ave, New York, NY 10021",4.0,$$
+16,aY9-yTX9mCGJS-ZFttmYBQ,Kathiyawadi Dhaba,"785 Newark Ave, Jersey City, NJ 07306",4.5,
+17,iU0McmYWdsnD-NKRUZXhQQ,Sapphire Indian Restaurant,"435 Dekalb Ave, Brooklyn, NY 11205",3.5,$$
+18,GVaTZnN7a-DkrK57l7BbGw,Boishakhi Restaurant,"2914 36th Ave, Astoria, NY 11106",4.0,$
+19,zSCp9pjEQ_M3LBuPRDo-Bg,Desi Grill,"46 Wyckoff Ave, Brooklyn, NY 11237",4.0,$$
+20,6KOeVK9KMmVG6Q3chyZ_Bg,Taste of Bengal,"2827 31st St, Astoria, NY 11102",4.5,$$
+21,jt6ygaAb0W_o3nWqbr_UjQ,Bombay Spice,"1018 Bergen St, Brooklyn, NY 11216",3.5,$$
+22,IRRhwACUiMaqkBVAZiCzeg,Hampton Chutney,"143 Grand St, New York, NY 10013",4.0,$$
+23,m5Whyz8O8jM4DrE808h71g,Darbar Grill,"157 E 55th St, New York, NY 10022",4.0,$$
+24,l4fwf8VwAokv3MWT45Ab7g,Bunna Cafe,"1084 Flushing Ave, Brooklyn, NY 11237",4.5,$$
+25,DodCeSN_hkXCJDoJ0uVxKg,Nix,"72 University Pl, New York, NY 10003",4.0,$$
+26,Z2qZSs6oVJQFSc44tytAHg,India House Restaurant,"586 Nostrand Ave, Brooklyn, NY 11216",4.0,$$
+27,o5sUOmtzcHAeSWtUuFJ00g,Anjappar Chettinad Restaurant,"116 Lexington Ave, New York, NY 10016",3.0,$$
+28,gWuHmSQ8G5FiKv-rEogwvA,Pongal,"110 Lexington Ave, New York, NY 10016",3.5,$$
+29,UiG3MlLDMMZp31XDBM2kvA,Karahi Indian Cuisine,"803 9th Ave, New York, NY 10019",5.0,
+30,ciIoPi0WqaNyB6xkwRKxzA,Joy Curry & Tandoor,"32 W 39th St, New York, NY 10018",4.0,$$
+31,shp52ABKmbCEOB4dku0low,Samudra NYC Restaurant,"826 9th Ave, New York, NY 10019",4.5,
+32,sQ_L8O9WMU4apxSTVa9JKg,Agra Taj Mahal,"1005 Manhattan Ave, Brooklyn, NY 11222",3.5,$$
+33,niivJKBqY5wToDukqZHetQ,Karma Kafe,"505 Washington St, Hoboken, NJ 07030",4.0,$$
+34,kB3QyyhHFVyhGgp35Rnuew,The Kati Roll Company,"99 MacDougal St, New York, NY 10012",4.0,$$
+35,9y6UQ2GYKe08-WF_1jTX0A,Touch Of Spice - Indian Cuisine,"4114 Park Ave, Weehawken, NJ 07086",3.5,$$
+36,Rk6TXh7nINbzJoGtI2C5cA,Desi Galli,"172 Avenue B, Corner 11th, New York, NY 10009",3.5,$$
+37,BYnd0Kbkrjhz0CGKMF1lqg,Modern Love Brooklyn,"317 Union Ave, Brooklyn, NY 11211",4.5,$$
+38,ZkpKRf_AenlKegg2-NSA3g,Royal Bangladesh Indian Restaurant,"93 1st Ave, New York, NY 10003",3.0,$
+39,RdETxi25tbocKIcMiW5TxQ,Darbar Fine Indian Cuisine,"152 E 46th St, New York, NY 10017",4.0,$$
+40,_RVeBqIldnrh757oxL-b7w,Salaam Bombay,"319 Greenwich St, New York, NY 10013",3.0,$$
+41,4x4M_p_b8GvLkc4fe00GHA,Biryani House Cart,"140 Broadway, New York, NY 10005",4.0,$
+42,j0n_poMVZnODYOFviLbh0Q,Taim West Village,"222 Waverly Pl, New York, NY 10014",4.5,$$
+43,7k2uvrFxOoBwV7c2m0UBNw,Curry Express,"130 E 29th St, New York, NY 10016",3.5,$
+44,izRJeBfDQYJmd6ibIQ6Mfg,Mughlai Indian Cuisine,"1724 2nd Ave, New York, NY 10128",4.5,$$
+45,bNO0801dOoSSFJuDdTDzYQ,Hadramout Restaurant,"172 Atlantic Ave, Brooklyn, NY 11201",4.0,$$
+46,fjjzAn0j6zCs2SNViuNfwQ,Kailash Parbat,"99 Lexington Ave, New York, NY 10016",3.5,$$
+47,NqnCmOlPIJ_QBQzvZ28djA,Sapthagiri Taste Of India,"804 Newark Ave, Jersey City, NJ 07306",3.5,$$
+48,NHoKf98A1Hi8htHEfeptgw,Sapid Indian Food,"595 Washington Ave, Brooklyn, NY 11238",3.5,$$
+49,RZQDDJBb7X417wcobUyv0g,London Tandoori,"524 Metropolitan Ave, Brooklyn, NY 11211",3.5,
+0,raGF9jAO7JOiIbFQ2_bTAg,India at Time Square,"332 W 44 St, New York, NY 10036",4.5,$$
+1,-mQG7oEHSAMr9dBDrrqI2g,deep indian kitchen - indikitch,"1190 Avenue Of The Americas, Rockefeller Center, New York, NY 10036",3.5,$$
+2,noBCTbD1Ylf5QR7PXy-rkA,Cafe Himalaya,"78 E 1st St, New York, NY 10009",4.0,$$
+3,g4EXxoV0z_TnyWF8h9xMKQ,May Kaidee East Broadway,"215 E Broadway, New York, NY 10002",4.5,
+4,YM5AbOOg-TjuHJrQmfd0Hw,Desi Galli,"101 Lexington Ave, New York, NY 10016",3.5,$
+5,KJNXC2NtxRPeu_nkk1PC4A,Punda Tibetan Restaurant,"3935 47th Ave, Sunnyside, NY 11104",4.0,$$
+6,oSMFe-10TyH40NIXG0Zahw,Vaibhav Indian Spice Journey,"737 Newark Ave, Jersey City, NJ 07306",3.5,$$
+7,KtYEMI-_zy5hoZTBd3i3Tw,Indian Curry Heights,"125 Ralph Ave, Brooklyn, NY 11221",3.5,$$
+8,J0vr8Jpe9t7UgoybpbgkFQ,Bajeko Sekuwa,"43-16 Queens Blvd, Sunnyside, NY 11104",4.0,$$
+9,3uEkZEAp7biQEtt0S7W1Vg,Vatan Indian Vegetarian,"409 3rd Ave, New York, NY 10016",4.0,$$$
+10,llzZ19xTIrueN5XBZi4zWg,Indian King Biryani House,"140 Broadway, New York, NY 10005",4.5,$
+11,oqVG2LsTwvRzgJxId5pqiw,Dar 525,"525 Grand St, Brooklyn, NY 11211",4.5,$$
+12,RRwz0t3XcaMCSjTWDy3C9A,Lahori Chilli Restaurant & Sweets,"1026 Coney Island Ave, Brooklyn, NY 11230",3.5,$
+13,xemN4tP9RlK5c-yUT-M71Q,Mamasita Bar & Grill,"818 10th Ave, New York, NY 10019",4.0,$$
+14,ZrdTKStTAo2pchslOev1KQ,Chennai Garden by Tiffin Wallah,"127 E 28th St, New York, NY 10016",4.0,$$
+15,aczqK-esIyqhyk7QLqcc1A,TAJ,"310 E 6th St, New York, NY 10003",3.5,$$
+16,rML0mPoWQHxG8ifHGuI7pQ,Mashallah Sweets & Restaurant,"663 Coney Island Ave, Brooklyn, NY 11218",3.5,$
+17,qs5aBgcT2v1BFlW-XqQS0Q,Biryani Cart,"46th St & 6th Ave, New York, NY 10003",3.5,$
+18,G4Y3yF4UfcCNSj0JFQQVDw,A Saffron Thread Fresh Indian,"98 Chambers St, New York, NY 10007",3.5,$$
+19,6lHhC-WND3Vs2DhTnDtgjQ,Taza Mkt,"254 36th St, Bldg 2, Industry City Food Hall, Brooklyn, NY 11232",4.5,$$
+20,2LFYEpREb8A0gr-rQSrnXA,Indian Project,"243 W 38th St, New York, NY 10018",4.0,$$
+21,gHw2LnjgqyJclvlOjISv6g,Spice Wala Indian Cuisine,"97 1st Ave, New York, NY 10003",3.5,$$
+22,sng5ejEyAA22ncDwxdu2lw,Chandni Restaurant,"13 W 29th St, New York, NY 10001",3.5,$
+23,dOsIIVVfgiDevGZLWaPnTg,DiwaneKhaas,"53 Nassau St, New York, NY 10038",3.5,$
+24,XKy4Cy4uNgO7rxhH4yFJQQ,Mughlai Indian Cuisine,"329 3rd Ave, New York, NY 10010",4.0,$$
+25,Csg_qjYzhQxKAinj814AKw,Namaste,"1448 1st Ave, New York, NY 10021",4.0,
+26,pGr5QuQU7Ur5GHLvXbT8bw,Paulie Gee's,"60 Greenpoint Ave, Brooklyn, NY 11222",4.0,$$
+27,N_gLvnMAqFblJiE9sw89dQ,Nukkad,"105 Greene St, Jersey City, NJ 07302",4.0,$
+28,hKKDfUPcDX_c-RCWBMOr1w,Bombay Sandwich Co.,"48 W 27th St, New York, NY 10001",4.0,$$
+29,fZOmB4eaVlnf6LIejL2vBg,Jalsa - Grill & Gravy,"964 Coney Island Ave, Brooklyn, NY 11230",4.5,$$
+30,7lztzQTF79er1RydVnPiDg,Noi Due,"143 W 69th St, New York, NY 10023",3.5,$$$
+31,o21M4dKM4KQbzGVrlq_3Iw,Pearl Indian Food,"738 Franklin Ave, Brooklyn, NY 11238",3.5,$$
+32,SJ6gBwqF219nV6dAZBt93Q,Indian Food & Falafel,"6742 5th Ave, Bay Ridge, NY 11220",3.0,$
+33,FhXBKrLHyK7np4d0_f1s-w,Swadist Restaurant,"715 Newark Ave, Jersey City, NJ 07306",4.5,$$
+34,hG1H6NRQvWQkr7OeTFqDSw,Anarkali Indian Cuisine,"1125 Church Ave, Brooklyn, NY 11218",3.5,$$
+35,cuUmPDEY-1KXzShGdpsqag,Turkish Kitchen,"386 3rd Ave, New York, NY 10016",4.0,$$$
+36,IbB_7AxWQtDFW1iKnoD1Ug,BK JANI,"679 Grand St, Brooklyn, NY 11211",4.0,$$
+37,I8X2NYRYHdWrGrxIHZFJ5A,Tangra Asian Fusion Cuisine,"3923 Queens Blvd, Sunnyside, NY 11104",2.5,$$
+38,XipQLDbyTl5tsLlyzAWzug,Jajaja,"162 E Broadway, New York, NY 10002",4.5,$$
+39,tfGKVbzMHq4mhVBzrDnVWQ,Lahori Kabab Restaurant,"106 Lexington Ave, New York, NY 10016",3.5,$
+40,P5mFtOSiQmplOj0yVP13PQ,Rasoi Restaurant,"810 Newark Ave, Jersey City, NJ 07306",3.5,$$
+41,3DVKbi5cSLMlmph43RF_kA,LuAnne's Wild Ginger All-Asian Vegan,"112 Smith St, Brooklyn, NY 11201",4.0,$$
+42,elLwg1PVFUEnoyKpzMP8DQ,Bali Kitchen,"128 E 4th St, New York, NY 10003",4.5,$$
+43,lIXVm16VchbDXOf7v4hxMA,Haandi,"113 Lexington Ave, New York, NY 10016",3.5,$
+44,RRg3P3NsYzutXn5M6mluxw,Lasani Restaurant,"15 W 29th St, New York, NY 10001",3.5,$
+45,E8atCW6l6y1SVeEXbbXzEA,Sacred Chow,"227 Sullivan St, New York, NY 10012",4.0,$$
+46,TTwPVEHeSeyFMLF6cik8Lw,Raj Mahal,"322 E 6th St, Ste 1, New York, NY 10003",3.0,$$
+47,MotfuoOFiEmOKOcRCnRhdA,Lahore Deli,"132 Crosby St, New York, NY 10012",4.0,$
+48,m6WOGq7BSB8YPjKoOpNTLQ,Cafe Tibet,"1510 Cortelyou Rd, Brooklyn, NY 11226",4.0,$$
+49,yx8cpBwPttpdBvm4V1EawQ,Joy Curry & Tandoor,"148 E 46th St, New York, NY 10017",3.5,$
+0,7CM15wd5d8WC_pHR674YXA,Hummus Kitchen,"1613 2nd Ave, New York, NY 10028",4.0,$$
+1,S3dtt6qNyYfdF-I4rZTbXw,Graffitti Earth,"190 Church St, New York, NY 10013",3.5,$$
+2,z2VXX7wGl8XZ6_oo9W3koA,Patiala Indian Grill,"371 W 34th St, New York, NY 10001",4.0,$$
+3,VMSO12sjs6W415PSogC7PA,Paratha Junction,"779 Newark Ave, Jersey City, NJ 07306",3.0,$$
+4,ml3ASw5_B5XLnd9kE8xx3g,Salt & Pepper,"139 W 33rd St, New York, NY 10001",3.0,$
+5,7-mcmUETyMifs3rbpvCObA,Yeti Spice Grill,"1764 1st Ave, New York, NY 10128",4.0,$$
+6,upaVTWhLsxcu1HXqN8iHVQ,Ladybird,"111 East 7th St, New York, NY 10009",4.0,$$
+7,nBoOm-TAhRvbcDkHfKOwGg,Swagat Indian Restaurant,"205 W 29th St, New York, NY 10001",3.0,$
+8,QaXo7ZhglTcSWHLQ8QNY4A,BK JANI,"445 Albee Sq, Brooklyn, NY 11201",4.5,$$
+9,JhJLPp6KuBcD3CHCkEKJ_A,Cocoron,"16 Delancey St, New York, NY 10002",4.0,$$
+10,U3hvDT5CtQrnpg2zhJg3mQ,Kashmir 9 - Cuisine of Pakistan,"478 9th Ave, New York, NY 10018",3.5,$
+11,u_3TLN0u6LyOL01vdjFOug,Champs Diner,"197 Meserole St, Brooklyn, NY 11206",4.0,$$
+12,O5MN8tijDGzJS8uin9zQ2Q,Chef Of India,"324 Central Ave, Jersey City, NJ 07307",3.5,$$
+13,UnFe6mLcCdHVyyDxnIBkAA,Ambo,"224 W 35th St, New York, NY 10001",4.0,$$
+14,hXqrA_Z3jZ8Q1O6ZehWSwQ,Sami's Kabab House,"35-57 Crescent St, Astoria, NY 11106",4.5,$$
+15,4KLrdzN3S9Z30I91MfYT9w,Godavari,"835 Newark Ave, Jersey City, NJ 07306",3.0,$$
+16,UtknyDJ_DPut-FKRqs0wpQ,Royal Grill Halal Food,"44TH St And 6th Ave, New York, NY 10018",5.0,$
+17,e5c8jGklVNKoaURcDsVxgQ,Curry Up Now,"91 Washington St, Hoboken, NJ 07030",4.0,$$
+18,uwx3yy7Wu5u55EiXRv03aQ,Ali Baba,"912 Washington St, Hoboken, NJ 07030",4.0,$$
+19,vS5WZNErrgWvHtiO3CTmqA,Sheezan Restaurant,"183 Church St, New York, NY 10007",3.5,$
+20,NVCLcLa_7LMEJipAQmNlZw,Agra Restaurant,"807 Lexington Ave, Fl 2, New York, NY 10021",4.0,$$
+21,de_HHnpR9mYejcImO8jmVQ,Falguni Family Restaurant,"1326 Newkirk Ave, Brooklyn, NY 11230",4.0,
+22,_ztYFP1H6uJmR-9cVLDU5w,Madina Restaurant & Sweets,"563 Coney Island Ave, Brooklyn, NY 11218",3.0,$
+23,EgxnURDBkeKXV9rKzHrJLA,Aanchal Indian Restaurant & Bar,"45-12 23rd St, Long Island City, NY 11101",3.5,$$
+24,IFZ3_d01uflGixWrrD8_gg,Ariana Afghan Kebab Restaurant,"787 9th Ave, Apt 3N, New York, NY 10019",4.0,$$
+25,tN37MOvqzrmpU0h0PfoDmw,Utsav,"1185 Avenue Of The Americas Plz, New York, NY 10036",3.5,$$
+26,CpsnurlPqkUBWwqO69xS7A,Punjab On Third,"220 3rd Ave, New York, NY 10003",3.5,$
+27,V4C5SzWmNkgPMjiCfEZ41g,Kinara II Indian Restaurant,"368 Myrtle Ave, Brooklyn, NY 11205",3.5,$$
+28,_ZxbRvQDWD3uVu3o9df82A,J & R West Indian Restaurant,"294 Rogers Ave, Brooklyn, NY 11225",5.0,
+29,XYusVoJKFBU_-LIGYlkZeQ,Punjab Restaurant,"691 Coney Island Ave, Brooklyn, NY 11218",3.5,$
+30,WbCZW0OBcakQ9oxsLsw8vg,Honest Restaurant Jersey City,"811 Newark Ave, Jersey City, NJ 07306",3.5,$$
+31,EGUPGM2TuwMMFi3vifYEVA,Ginger House,"310 Ditmas Ave, Brooklyn, NY 11218",4.0,$$
+32,lUpyqsKw-IBqsMgYIHZj7Q,Balade,"208 1st Ave, New York, NY 10009",4.0,$$
+33,x31Xmdw1ekbG-TdD8hT0_w,Curry Dream,"66 W 39th St, New York, NY 10018",2.5,$$
+34,WrMu2G5M2im56uYKTd4Bgw,Curry In A Hurry,"119 Lexington Ave, New York, NY 10016",3.0,$$
+35,9AL3VA_4H_PMw0GPriIGQw,Tangra,"103 Lexington Ave, New York, NY 10016",3.5,
+36,4SK9aWKC-Qwk-cqS2dWbfw,Kebab N Grill,"775 Bergen Ave, Jersey City, NJ 07306",4.0,$$
+37,JvV8sTgUX6abRQPzb3hLgg,New Curry Hut,"534 9th Ave, New York, NY 10018",3.5,$$
+38,UOaXJyVrr9l1XO7lGaT-bQ,Sweetness,"1150 Coney Island, Brooklyn, NY 11230",4.0,$
+39,VSPkVw9gSQx-5v4A6aC_YA,Manousheh,"193 Bleecker St, New York, NY 10012",4.5,$
+40,50eKjWOB-H9iuo1ocACOaQ,Imli Urban Indian Food,"1136 1st Ave, New York, NY 10065",4.5,$$
+41,FPuOTMD-dmXTFz3rUsEkMg,IchiUmi,"6 E 32nd St, New York, NY 10016",3.0,$$$
+42,0s8rxDQhglhh28BLz-80qw,Mysttik Masaala,"90 Park Ave, Corner of 40th Street, New York, NY 10016",5.0,
+43,e0HGXP2YlFtpgF6hy9dVdA,NaanChing Bistro & Bar,"103 Montgomery St, Jersey City, NJ 07302",3.5,$$
+44,hmNxdAbt0tiGm8_vPdXCSA,Afghan Kebab House II,"1345 2nd Ave, New York, NY 10021",3.5,$$
+45,DR22QPe3A52diajwPuooVA,Bikanervala,"815 Newark Ave, Jersey City, NJ 07306",3.0,
+46,9tjTiVC2HepvHwEPdc677g,Bawarchi Biryani Corner,"839 Newak Ave, Jersey City, NJ 07306",2.5,$$
+47,cWzdIJhEDZIjSGDpYGWy3Q,Buka New York,"946 Fulton St, Brooklyn, NY 11238",3.0,$$
+48,CN-ZjeSCht_lOcEsuVSfgA,Raaz,"537 Washington Blvd, Jersey City, NJ 07310",3.5,$$
+49,NKI1VvfXYluRjnq4S6yEuw,Divya's Kitchen,"25 1st Ave, New York, NY 10003",4.5,$$
+0,BKABojUN3G9vUrG3AlDZgQ,Wild Ginger,"182 N 10th St, Brooklyn, NY 11211",3.5,$$
+1,blDT9_3bnnWAwtBAODIENA,Yemen Cuisine,"6726 5th Ave, Brooklyn, NY 11220",4.0,$$
+2,37RhWHnMsnjULuoN95Bg9A,Izzy's Brooklyn Smokehouse,"397 Troy Ave, Crown Heights, NY 11213",4.0,$$$
+3,KbCLZOKvPdNY7ptAg0kGxw,The Kati Roll Company,"229 E 53rd St, New York, NY 10022",3.5,$
+4,R0FryAIetxATjdYwOdy1aQ,Bay Leaf,"561 Flatbush Ave, Brooklyn, NY 11225",2.5,$$
+5,mZALre3ahuetu5X8_uUJew,Thelewala,"112 Macdougal St, New York, NY 10012",4.0,$
+6,3PabSEZ2ESexVFZznyozVw,Delice & Sarrasin,"20 Christopher St, New York, NY 10014",4.0,$$
+7,_nScWpFX3M1K7s30hFEsRw,Inday,"1133 Broadway, New York, NY 10010",4.0,$$
+8,nQfPwIasXCi8NwNKq65vfw,Mysttik Masaala,"250 Park Ave, New York, NY 10172",4.5,
+9,nd0uXNXaeaDMuMk4C1GusA,Bukhara Grill:Indian Spice Rave,"217 E 49th St, New York, NY 10017",3.5,$$
+10,yC-GsIbqeQnoVd9LYiOabQ,Mantra,"253 Washington St, Jersey City, NJ 07302",3.0,$$
+11,xnrn6Ibn4T22vTjYX1H1zQ,Afghan Kabab and Grill House,"1015 Manhattan Ave, Brooklyn, NY 11222",4.0,
+12,NztBFASX-zzg0tROoLiKOg,Mysttik Masaala,"4702 5th St, Long Island City, NY 11101",4.5,
+13,KDr72efaFAcQXccdA4yoaw,Cas West Indian & American Restaurant,"135 Kingston Ave, Brooklyn, NY 11213",4.5,$
+14,55spA8dSOvKRme3ix-k7gg,Westville West,"210 W 10th St, New York, NY 10014",4.0,$$
+15,u_j2PopX_tFfQvrlerjmmA,Golconda Chimney,"806 Newark Ave, Jersey City, NJ 07306",3.0,$$
+16,HwEc9t8vV_DPCyFe3tVJ2Q,Bar Velo Brooklyn,"394 Broadway, Brooklyn, NY 11211",4.5,$$
+17,ItocvsIyniVxMARBkHZaoA,deep indian kitchen - indikitch,"601 8th Ave, New York, NY 10018",3.5,$$
+18,lTKwlr9_vWjNDPbt4I7bog,Chaska Fine Indian Cuisine,"826 Newark Ave, Jersey City, NJ 07306",3.5,$$
+19,tHY4jNvSgdIYoWnE9b7IZg,Banana Boat Restaurant,"1138 Flatbush Ave, Brooklyn, NY 11226",4.0,$$
+20,S7ivv5O0beH3U9cV3cRD_Q,Jujube Tree,"35-02 30th Ave, Astoria, NY 11103",4.5,$$
+21,8mmM20X369_Do04kW7-TTA,Holy Cow,"34 Canal St, New York, NY 10002",4.0,$
+22,2YufTvP05BC9VORwAcOl_g,Desi BBQ Halal,"36-02 Steinway St, Long Island City, NY 11101",4.5,$
+23,xEnNFXtMLDF5kZDxfaCJgA,The Halal Guys,"West 53rd St, New York, NY 10019",4.0,$
+24,kNzjRlXzL5XJInDqNwfMgA,Mysttik Masaala,"32-07 30th Ave, Astoria, NY 11103",4.5,
+25,ugYhnKrr3Q1TVV15R0EEWQ,AnTalia NYC,"17 W 45th St, New York, NY 10036",4.0,$$
+26,L3PwWn54PvHm5Rd4oUg7xw,B&D Halal Food,"163B W 29th St, New York, NY 10001",4.5,$
+27,PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,"65 2nd Ave, New York, NY 10003",4.5,$$
+28,7lhmzhkct9-blnuBAp_HVQ,Five Stars Thai Cuisine,"324 29th St, Union City, NJ 07087",4.0,$$
+29,_kaQarBVxm8rHnyeFlCwTQ,Cafe 22,"5 Times Sq, Fl 22, New York, NY 10036",4.0,$
+30,2KCyOxOM5J9glFSpmLqb9Q,Biryani Pot,"824 Newark Ave, Jersey City, NJ 07306",3.0,$$
+31,0_ONgLkWOmGnjhCecpZPYQ,Samossa Bites,"35-27 31st St, Astoria, NY 11106",3.5,$$
+32,S37Fd4Jrwuv6R1DukmlqSQ,Khyber Pass,"34 Saint Mark's Pl, New York, NY 10003",3.5,$$
+33,ECUTH1VOWxZ9GwfzblMKzA,Mughlai Indian Cuisine,"255 W 55th St, New York, NY 10019",4.5,$$
+34,7UJRw4Klt5yfE7q9vznEHA,Kabob Shack,"182 Havemeyer St, Brooklyn, NY 11211",4.0,$
+35,oy_FqW6XO8S06pg6nHbhog,Ramen Hood,"62 Spring St, New York, NY 10012",4.5,$$
+36,qf098TQ-Frxq4QyrlYqDJw,Hazar Turkish Kebab,"7224 5th Ave, Brooklyn, NY 11209",3.5,$$
+37,5iKAeJ8RVrNGRUNy-355jQ,Deccan Spice,"771 Newark Ave, Jersey City, NJ 07306",3.5,$$
+38,Hgc27X2PX2jZQMcVtbJ9vQ,Mother of Pearl,"95 Ave A, New York, NY 10009",4.0,$$
+39,AKaO-EaJ8EgUnx5EPZ8N4g,Ali's Original Roti Shop,"337 Utica Ave, Brooklyn, NY 11213",3.5,$
+40,AJjQwst3ppWZ9BCfk-tQPA,Bhojon,"15 E 30th St, New York, NY 10016",4.0,
+41,dCcO8zw1xTgPs0HIHbiksA,Night Music,"111 E 7th St, New York, NY 10009",4.5,
+42,IbrIwIZ8f3IU5bQUZrfOYg,Pariwaar Delights,"827 Newark Ave, Jersey City, NJ 07306",4.5,
+43,_WWJcqUTGFCCVp0cymu0wQ,Footprints Cafe,"5814 Clarendon Rd, Brooklyn, NY 11203",3.0,$$
+44,3rZwXDjkyDLAHNSdPUI5WA,Korai Kitchen,"576 Summit Ave, Jersey City, NJ 07306",5.0,$$
+45,wCSKWPBOmUvKZz8gdStxjA,Sylhet Fusion Cuisine,"45-12 Greenpoint Ave, Queens, NY 11104",1.5,
+46,AZXVhEWU2FAqI40b0ZvzfQ,Gourmet Sweets,"1107 Coney Island Ave, Brooklyn, NY 11230",3.5,$
+47,9DceMTrjyVqBgQRqgR6GWw,Red Bamboo,"140 W 4th St, New York, NY 10012",4.0,$$
+48,p3E_1wktqB-Z4qtqqO9F-A,Terri,"60 W 23rd St, New York, NY 10010",4.0,$$
+49,x3NeZ4xToUxVKDoZ32D5tg,NY Dosas,"50 Washington Sq S, New York, NY 10014",4.5,$
+0,GcBZDgOKOP-RkH_mI-DS9A,The Halal Guys,"307 E 14th St, New York, NY 10003",3.5,$
+1,-GkhPQ0AVLoIAzPGfQ_SaA,Halal West Indian and American Cuisine,"621 Flatbush Ave, Brooklyn, NY 11230",4.5,$
+2,ubeG-hyIV8qoSSAk_pAZ2A,No Pork Halal Kitchen,"50 4th Ave, Brooklyn, NY 11217",4.0,$
+3,ArRjkFlv7aIUfxNLvI1bwA,Roti Boti,"2709 21st St, Astoria, NY 11102",3.5,$
+4,60LpoBux4MKHBLiQJfMbYQ,Mysttik Masaala court square,"2525 44th Dr, Queens, NY 11101",4.0,
+5,ar6xYltYy8vLPIVfVsO6VA,Dream Spicy II,"60-64 Sip Ave, Jersey City, NJ 07306",4.5,
+6,8AM1gGIk6KVb27Q9TYwD9Q,Green Symphony,"255 W 43rd St, New York, NY 10036",4.0,$
+7,xscOfj1dMkEKvhrRruLpIg,Quantum Leap,"226 Thompson St, New York, NY 10012",4.0,$$
+8,DfYRsSozlq-z5ovrWsZvmQ,Biryani Darbar,"769 Newark Ave, Jersey City, NJ 07306",3.0,$$
+9,KXD44wWmrGf7mzyyr0bikw,P.S. Kitchen,"246 W 48th St, New York, NY 10036",4.0,$$
+10,wqOBqXkMar3xPOHfkWGwDA,The Soul Spot,"302 Atlantic Ave, Brooklyn, NY 11201",3.5,$$
+11,JuP4192zOiVFyPXPuc8EtQ,Abdullah Sweets and Restaurant,"91 Church Ave, Brooklyn, NY 11218",4.0,$
+12,tjstlcFtOiXnUU1MAG1uqg,Villa Brazil Cafe Grill,"43-16 34th Ave, Ste A 2, Astoria, NY 11101",4.5,$$
+13,bRPq-Nmct5bOuOtsu8fC7Q,S'MAC,"197 1st Ave, New York, NY 10003",3.5,$$
+14,60KTvpWASee4CecRsEfXYw,Black Flamingo,"168 Borinquen Pl, Brooklyn, NY 11211",4.0,$$
+15,q2HGvziLlfQGChoDPFjTCQ,Szechaun Mirchi,"850 Newark Ave, Jersey City, NJ 07306",4.0,
+16,tguMh2GgOcU9fu6WN3dqpw,The Original Buddha Bodai Kosher Vegetarian Restaurant,"5 Mott St, New York, NY 10013",4.0,$$
+17,JOXl-jcvaciJa_oQAvFkbA,Afghan Kebab House,"764 9th Ave, New York, NY 10019",3.5,$$
+18,0XC6L2GCtuaNEI8XFEyD2g,Jungle Cafe,"131 Greenpoint Ave, Brooklyn, NY 11222",4.0,$$
+19,0K14fz91-JSZd-wselihxA,Basil,"270 Kingston Ave, Brooklyn, NY 11213",3.5,$$$
+20,AvTezlpt3GXTdSEnXbHP4w,Fatima's Halal Kitchen,"25-25 Broadway, Astoria, NY 11106",4.0,$
+21,uXtaduMyk2oGdnHYR4ZafA,Vegetarian Palate,"603 Washington Ave, Brooklyn, NY 11238",3.5,$$
+22,w5OkGoc_gcA3EA399aV1Jg,Sri Ganesh's Dosa House,"809 Newark Ave, Jersey City, NJ 07306",3.5,$
+23,PbxDOYOjYobnHFEH6I8PuQ,Kotti Berliner Döner Kebab,"220 36th St, Brooklyn, NY 11232",4.5,$$
+24,vksCRTDJO6ZrM_JFRxnG9w,Desi Junction,"688 10th Ave, New York, NY 10019",3.5,$
+25,1a8YGhr4t9ELBUIaP7YONQ,Tribos Peri Peri,"109 Christopher Columbus Dr, Jersey City, NJ 07302",3.5,
+26,trkn76h8vQeB8kCUgHJyuw,Inday Go Go,"570 Lexington Ave, New York, NY 10022",3.0,
+27,228DO__YwYmliMx6Q5jTtw,Turco Mediterranean Grill,"604 9th Ave, New York, NY 10036",4.0,$$
+28,R7PHDW6wKzYHOOh4f6MrzA,Pakiza Restaurant,"1032 Coney Island Ave, Brooklyn, NY 11230",3.0,$$
+29,3vpqJK9Oz515AZR-bFW5Ig,Dosas's Uthappam,"1-15 Liberty Ave, Jersey City, NJ 07306",4.0,
+30,lMyJ9lrwRddpsOR_WeMSww,Gypsy Grill,"187 Newark Ave, Jersey City, NJ 07302",4.0,$
+31,LjBKkUSpMwrpo99hXgtHYw,Franchia Vegan Cafe,"12 Park Ave, New York, NY 10016",4.0,$$
+32,pySuU21NBcNpM0mr3_bggg,Taste of India,"30 Mall Dr W, Newport Mall, Jersey City, NJ 07310",3.0,$$
+33,j0Q-yyxS2WiL3foCJEV4eg,Dirt Candy,"86 Allen St, New York, NY 10002",4.0,$$$
+34,NdO1fbZL1DGi_WRyV1_sgQ,Spice Villa Restaurant,"280 Central Ave, Jersey City, NJ 07307",3.5,
+35,UiOUyzrVPTAAjNpGMFhFyQ,Dill & Parsley,"425 Madison Ave, New York, NY 10017",3.5,$$
+36,R2VSWR_2bNhfchNqdgQR2g,Abir Halal Restaurant,"526 Nostrand Ave, Brooklyn, NY 11216",3.5,$
+37,iYh7mB7PDd5ZvZZ4lFPF1w,Anand Indian Cuisine,"304 E 78th St, New York, NY 10075",4.0,$$
+38,oYiswrz5gNiZBsd3QUR9LQ,Bahar Masala,"984 Coney Island Ave, Brooklyn, NY 11230",3.5,$$
+39,S6r0P0PItA9EYHV1nCiQgg,Mysttik Masaala,"399 Park Ave, Corner of 54th street, New York, NY 10022",4.5,$
+40,MAwtBgCmrY-i_jbmXlDMkw,Peacefood Cafe Downtown,"41 E 11th St, New York, NY 10003",4.0,$$
+41,fu5f6biOPsvgKYEfPfSZEQ,Agra Heights,"226 Wilson Ave, Brooklyn, NY 11237",3.5,$$
+42,9x95RpLEIDRWG2Y9w4qz4Q,INDAY,"708 3rd Ave, 44th Street, New York, NY 10017",4.0,$$
+43,CX6_T61ZANH5ttfMLeKKIA,The Kati Roll Company,"22 Maiden Ln, New York, NY 10038",3.0,$$
+44,DTxsUnrcAQO-OXwwypPZjQ,Shadman Restaurant,"293 1/2 Grove St, Jersey City, NJ 07302",3.5,$
+45,4LVINhq3y4hCrxtShrNkYQ,Momo Ramen,"78 5th Ave, Park Slope, NY 11217",3.5,$$
+46,JdNzj7EGQLC9eqqw3SYBPg,The Organic Grill,"123 1st Ave, New York, NY 10003",4.0,$$
+47,jE5_yPypanQLdYe7-f__dA,Toad Style,"93 Ralph Ave, Brooklyn, NY 11221",4.0,$$
+48,CEEUDBFxvUPKGlA65qJ8JQ,by CHLOE,"60 W 22nd St, New York, NY 10010",4.0,$$
+49,sDgN-TGeEz-wd8kWEUWwTA,VSPOT,"156 5th Ave, Brooklyn, NY 11217",3.5,$$
+0,Rr55bXbJcfdm4lIf-1f0Qw,Kwik Gourmet,"250 Park Ave E 47th St, New York, NY 10177",4.0,$
+1,U45dUNzVKs2KlM5HRgbDGA,Halal International,"574 Atlantic Ave, Brooklyn, NY 11217",4.0,$
+2,OpXv1wV4PvTlzzBEEPSItg,Carrot Indo Chinese,"789 Newark Ave, Jersey City, NJ 07306",2.0,
+3,80YK6JElg_pHjlHLlOvkmw,Istanbul Park,"293 7th Ave, Brooklyn, NY 11215",3.5,$$
+4,busL3obPpNkF5a9ISfO5wQ,Ujala Kabab Restaurant 2,"713 Newark Ave, Jersey City, NJ 07306",3.5,
+5,LC5qKRk3zy7f1eTONkSd3A,Dhania Fine Indian Cuisine,"787 Prospect Pl, Brooklyn, NY 11216",4.0,$$
+6,yqKzYJHASzNlytsMUmyAsw,Chennai Flavors,"523 Newark Ave, Jersey City, NJ 07306",3.0,$$
+7,HM7Mz6Hpxts58JJP7qELNQ,Eggmania,"14 Liberty Ave, Jersey City, NJ 07306",4.0,$$
+8,T5aGLWBjIZoV0pSW80nJXA,Amiya,"101 Hudson St, Jersey City, NJ 07302",3.5,$$
+9,oSpBTTBYy_sWDXiZF5CSdg,Pastrami Queen,"1125 Lexington Ave, New York, NY 10075",3.5,$$
+10,shNn0uGXQBD7wEIhbtzeIg,Malika Exclusive Indian Restaurant,"210 E 43rd St, New York, NY 10017",2.5,$$$
+11,phEamT8HRnu-RFFoCbJ5Bg,Ujala Kabab,"3403 Kennedy Blvd, Jersey City, NJ 07087",4.0,
+12,DsW8a9zwKWXBA_xOqKO-yQ,Dao Palate,"329 Flatbush Ave, Brooklyn, NY 11217",3.5,$$
+13,VLQrI-Qua7Ok02fAAuwvAA,Shandar Sweet & Restaurant,"679 Coney Island Ave, Brooklyn, NY 11218",3.5,$
+14,MAjVFhRwxbOsMHLkObzh4Q,Canteen Desi Dhaba,"117 Tonnele Ave, Jersey City, NJ 07306",3.0,$$
+15,o8KtWVBIVI9E3YYM5r0dPw,Damas Falafel House,"407 Myrtle Ave, Brooklyn, NY 11205",3.5,$
+16,rGmGim1ZDCxnF8n4NiKrYQ,Vegetarian Dim Sum House,"24 Pell St, New York, NY 10013",3.5,$
+17,L02D3DmTwrkap-BaAfIg8g,Lucky Sweets & Restaurant,"3310 36th Ave, Astoria, NY 11106",3.0,$
+18,AiZhCGPJeLm8T1fvdYdbKQ,Pakistan Tea House,"176 Church St, New York, NY 10013",3.5,$
+19,dzI6MzwKbrhJN5dEeUbX0w,The Hummus & Pita,"585 6th Ave, New York, NY 10011",4.0,$$
+20,ujKLiI39ie5K_iB-TLaFMg,Chennai Dosa Express,"2986 John F Kennedy Blvd, Jersey City, NJ 07306",3.0,$
+21,jpw7iGUzsj_AECKt351X8w,Wolfnights,"99 Rivington St, New York, NY 10002",4.0,$$
+22,xhWqjDuoORYBVgZVc4uK3g,Natural Blend,"769A Washington Ave, Brooklyn, NY 11238",4.5,$
+23,oWmHgBlcY9yNgjUo7mNX4Q,Seven Rivers of India,"203 E Houston St, New York, NY 10002",3.5,$
+24,ggLd3EdBQxHK7IQHnY_hhg,Soul Curry,"618 Washington St, Hoboken, NJ 07030",4.0,$$
+25,--IdKkia9zPNgB-rQreyBQ,Hungry,"821 Newark Ave, Jersey City, NJ 07306",3.0,$$
+26,3Wu7lGDEwuP-5OW1rdg0OQ,Sammy's Halal,"70 W 39th St, New York, NY 10018",4.0,$
+27,pzVUUB9bXZMK8KvRLOoUWg,Kiran Continental Indian Cuisine,"94 Chambers St, New York, NY 10007",3.0,$$
+28,QZcRSVUltJ6YreTeDx52lQ,Mr Falafel,"226 7th Ave, Brooklyn, NY 11215",4.0,$
+29,iSiOfm9CdUhbS0eDHPHUNA,Desi Food Truck,"New York, NY 10012",3.5,$
+30,PZLdVjlGHc9XlvFDdxHcIw,Jassi's World Famous Deli,"4344 21st St, Long Island City, NY 11101",3.0,$
+31,fmH4YbvpYdcpaaYOL1g7wg,Bombay Heights,"1070 Bedford Ave, Brooklyn, NY 11216",3.5,$$
+32,7_NCS8bQ8UA_nEANIWm-hQ,The Kati Roll Company,"685 Third Ave, New York, NY 10017",3.0,$
+33,Q3q5ODGrzCGjTUKaFEWJkw,New Green Leaf,"651 Manhattan Ave, Brooklyn, NY 11222",1.5,
+34,B3vbVvQOofXU6lFkrN1_2A,Gardenia Terrace,"826 10th Ave, New York, NY 10019",4.0,$$$
+35,85TC7GGcL5HYKdteMXWyOQ,Colbeh,"32 W 39th St, New York, NY 10018",2.5,$$$
+36,m_BTgSsjn8T881XxMMmDuw,Flatbush Halal Restaurant,"1210 Flatbush Ave, New York, NY 11226",4.0,$
+37,L6DAp6L1ZJKeeDN2PwoOLQ,Adel's Famous Halal Food,"49th & 6th, New York, NY 10019",4.5,$
+38,tAHRDrCR0l_utA91IyOYNw,Baba Ghanouge,"165 Church St, New York, NY 10007",3.0,$
+39,__XmiV4VwrbVDVHrRzn3oQ,Vatan,"839 Newark Ave, Jersey City, NJ 07306",2.5,$$
+40,3VZrUBCmSUt37jMB13-7yQ,The Hummus & Pita,"616 8th Ave, New York, NY 10018",4.0,$$
+41,jQD0E2iEhPmNqkEs-3QUwQ,Cafe Spice Express,"109 E 42nd St, New York, NY 10017",3.0,$$
+42,Cq2IVq7VOlEzQ0YfdPqc-w,Amin's Chinese Halal Restaurant,"215 Tonnele Ave, Jersey City, NJ 07306",3.5,$$
+43,JtmzTnEDpS03tMytXOPUQw,NYC Falafel,"201 Allen St, New York, NY 10002",4.0,$
+44,Tx3pJnxQo00twdxjvjc8Ow,Habibi Halal Food,"115 E 23rd St, New York, NY 10011",4.5,$
+45,WBJLoLeRSSzRDrzOv5IRng,Sonali Indian Restaurant,"326 E 6th St, New York, NY 10003",2.5,
+46,TPEkQX8Amp6Jb7FQmFKZxA,Gyro King,"1017 Foster Ave, Brooklyn, NY 11230",3.5,$
+47,Z-qJSOHcHhFuKyGIQgBtIQ,Gyro Cafe,"1604 Newkirk Ave, Brooklyn, NY 11226",4.5,
+48,YnDs59_dEQ61TdCD4fdyEw,Orchard Grocer,"78 Orchard St, New York, NY 10002",4.5,$$
+49,yFub1BhKEP-W-_ZM3_nJoQ,Bodhi Kosher Vegetarian Restaurant,"77 Mulberry St, New York, NY 10013",4.0,$$
+0,FvyhJRPCth2_1pmXlBbTGA,Pine Box Rock Shop,"12 Grattan St, Brooklyn, NY 11206",4.0,$$
+1,a-gG1ZBVBM1VJ-Y9JLUnhA,Vegan Food Court,"12 St Marks Pl, New York, NY 10003",3.5,$$
+2,MVNhVKCIqWXUyhwqWMOnYg,Kharian Deli,"184 7th Ave, New York, NY 10011",3.0,$$
+3,RSIboJc3I_PAMuJ058GmrA,Sandra's Food Spot Cart,"New York, NY 10005",4.5,$
+4,VakC43fJQAT5c6f3rqPlOw,Indian Fast Food Cart,"Park Ave & 53rd St, New York, NY 10022",3.5,$
+5,cOnQnP9GwyvhQjCJbSz5Fg,Mahboob-e-Elahi,"580 Montgomery St, Jersey City, NJ 07302",3.5,$
+6,s6SN6MZX6Ns6lsPVv5tMoA,Schnitzi,"5324 New Utrecht Ave, Brooklyn, NY 11210",4.0,$$
+7,3RuiiqUg8C3HZ-RuvlqtBg,Tawa Wok,"608 Grove St, Jersey City, NJ 07310",2.5,$$
+8,KeVQTRyG41doVE3YVsV7Pw,Rajbhog Sweets and Snacks,"812 Newark Ave, Jersey City, NJ 07306",2.5,$
+9,1gK-0_lGqjxbwiHWcXXdzg,ABCV,"38 E 19th St, New York, NY 10003",4.0,$$$
+10,wfJCzfotoMELb74z4lITOA,Pet Shop,"193 Newark Ave, Jersey City, NJ 07302",4.0,$$
+11,QV7OzZd6RsQjAkoxbHqEzQ,Essen Fast Slow Food,"60 Madison Ave, New York, NY 10010",3.5,$$
+12,_oB3M47mlg3dJGKKIYkRIA,Jewel of India,"324 E 6th St, Manhattan, NY 10003",2.5,$$
+13,jKCSGAMyS0KIcS-vKpEuaA,Sammy's Halal Food,"NE Corner 6th Ave W 4th St, New York, NY 10012",4.0,$
+14,2At9cxG4uLElc_INpAe0Lw,Gyro Cafe,"580 Coney Island Ave, Brooklyn, NY 11218",4.0,$
+15,x5HLJVEOYF-cCmGEZFu9yA,The Candle Cafe,"1307 3rd Ave, New York, NY 10021",4.0,$$
+16,pwarWuPn7Aw_il-epzJEgg,Awash Ethiopian Restaurant,"338 E 6th St, New York, NY 10003",4.0,$$
+17,Tl62WKPOTpGfhSTcHNKkLQ,Express Halal Cart,"William St, New York, NY",5.0,
+18,TcuWyuZAORVnQBPCMNbTgw,Beyond Sushi,"62 W 56th St, New York, NY 10019",4.5,$$
+19,7d9M58Bi4ZzgZZjLjvrzUQ,Lasani Afghani Restaurant,"580 Montgomery St, Jersey City, NJ 07302",4.0,$$
+20,kNMQuwgqF0A-b4nSd2dH7A,Extech Industries,"4387 Vernon Blvd, Long Island City, NY 11101",3.0,
+21,NzFq2gDaE56qPjiWy0p7Eg,Atomic Wings,"188 Parkside Ave, Brooklyn, NY 11226",2.0,
+22,GeXd_6XseU9E8oC1p1SaNg,sweetgreen,"311 Amsterdam Ave, New York, NY 10023",3.5,$$
+23,-PCQyh7uZPBamQYfpI8RBw,Dosa Hut,"777 Newark Ave, Jersey City, NJ 07306",3.0,$
+24,UbLsVnix6_MZ-a7uRB_c-w,Punchline Juice Bar,"638 Nostrand Ave, Brooklyn, NY 11216",4.5,$
+25,8dVc3lg1fQn0hYoc6crDcw,Ayurvedic plate,"1616 Cortelyou Rd, Brooklyn, NY 11226",4.0,
+26,EXFJUuKdtnf4eV1IF1drWQ,Laree Adda,"287 Grove St, Jersey City, NJ 07302",3.0,$
+27,CPtao9WHPnVJGUS0H4Txww,Taam Tov,"41 W 47th St, New York, NY 10036",3.5,$$
+28,g8i7ZoTri1fUGkaIM6fP9A,Souen,"326 E 6th St, New York, NY 10003",3.5,$$
+29,yVvx0wKmBplFlMd9z10Ytw,Mithaas Jersey City,"795 Newark Ave, Jersey City, NJ 07306",3.0,$$
+30,tf3RVircY9-8adku41N6VQ,Superiority Burger,"430 E 9th St, New York, NY 10009",4.0,$
+31,yyPjuKHc98UdCW5eM9ATcg,The Little Beet,"135 W 50th St, New York, NY 10020",3.5,$$
+32,k2o2DJOZT0oGTM-zmAJUfQ,Adelina's,"159 Greenpoint Ave, Brooklyn, NY 11222",4.0,$$
+33,85123ck6ZQF5-4rTQbDHjA,Hurry & Tasty Curry,"133 E 45th St, New York, NY 10017",1.0,$
+34,IWCG03AW5yJ3i84ifDjXpw,Veggies Natural Juice Bar and Cafe,"1209 Nostrand Ave, Brooklyn, NY 11225",4.0,$$
+35,B-lbpKcK1sVfqGdlmagKag,Subia's Organic Market,"506 Jersey Ave, Jersey City, NJ 07302",4.0,$$
+36,NQyXBdvbt7c8MAaL5kBdhQ,Tiberias,"45 E 34th St, New York, NY 10016",2.5,$$
+37,GgVSxkEzFRyAorxuODA1tQ,Masala Indian Cuisine,"789 Newark Ave, Jersey City, NJ 07306",1.0,
+38,Rta-_ALLo7g9xTUi23pmRw,Curry On,"765 Newark Ave, Jersey City, NJ 07306",3.0,$$
+39,amoGEhgkE4xcNXwYqWeoaw,Yonah Schimmel's Knish Bakery,"137 E Houston St, New York, NY 10002",4.0,$
+40,O4fJTI3e11PsKwIOYGZkag,Roast Kitchen,"740 7th Ave, New York, NY 10019",3.0,$$
+41,Ih9Zh1eRwPowzufbGVXfoA,Green Bean Cafe,"1413 York Ave, New York, NY 10301",3.5,$
+42,1hbAbWZ3bdJCSg_EoS4zyQ,Pita Grill,"1083 2nd Ave, New York, NY 10022",2.5,$$
+43,cfa699KGi9Ki-U_mCMVJvg,Caravan of Dreams,"405 E 6th St, New York, NY 10009",3.5,$$
+44,7ODapIfgerSKkAjKR0a2xw,Juice Press,"122 Greenwich Ave, New York, NY 10014",3.0,$$$
+45,7QNfgCS66llLCsVu_8VOyA,VLife,"348 7th Ave, New York, NY 10001",4.0,$$
+46,gDIxUaEpdwrU8_5MqvmP2Q,The Great American Health Bar,"35 W 57th St, New York, NY 10019",3.0,$$
+47,0vuzpq5d_KdFHDmBblKuVg,Your Way Cafe,"17 Wilson Ave, Brooklyn, NY 11237",4.0,$
+48,kFV-XAalWCEZN5VW77_3Hg,Market Crates,"26 W 33rd St, New York, NY 10001",4.0,$
+49,0eRir9RUGAnfKov68kvKVA,Larosh,"37 E 29th St, Manhattan, NY 10016",1.5,$$
+0,-DT3bduqJca_u3DGDarUkw,Laziz International Inc,"134 E 27th St, New York, NY 10016",2.5,$
+1,GtfhGhWmr1kQ4EnFTlwg7w,by CHLOE,"185 Bleecker St, New York, NY 10012",4.0,$$
+2,m2pSaGdxAqMWMP6Ims5v3g,Natural Bridge,"45-12 23rd St, Long Island City, NY 11101",2.5,$$
+3,amU4dSDarmtIU-D3pU687A,Minar Kabab tikka corner,"771 Newark Ave, Jersey City, NJ 07306",3.0,$$$
+4,LpQIn07liSugCw3IIQNyvA,Mela on the Sixth,"320 E 6th St, Manhattan, NY 10003",2.0,
+5,gMgnrr8dJzJJLVH1IbFUZw,Prime Food Market,"180 10th St, Jersey City, NJ 07302",4.0,$$
+6,NInbW8FuHAFwz354Ebm4VA,Roast Kitchen,"58E 56th St, New York, NY 10022",3.0,$$
+7,k6C1yxzWz07p6AYAV5pgDQ,Veggies Natural Juice Bar,"785 Franklin Ave, Brooklyn, NY 11238",4.5,$
+8,kK5f5YDwhpD3jvUGg-VRHw,Dante's Gourmet Foods,"166 William St, New York, NY 10038",3.0,$
+9,KxyH5zvTyXawl17lHjA4SQ,Beyond Sushi,"134 West 37th St, New York, NY 10018",4.5,$$
+10,EqZEbtu-91BdCPd4chXPVw,Magic Mix Juicery,"102 Fulton St, New York, NY 10038",4.0,$$
+11,FEhAl2T2UGwnsdvjLIQbQA,Just Salad,"320 Park Ave, New York, NY 10020",3.0,$$
+12,8s5d0nkoNMgu9Oe066q_lg,Kosher Deluxe,"10 W 46th St, New York, NY 10036",3.0,$$
+13,X_AQHQmY2pO_YHaojU_rMg,Just Salad,"134 W 37th St, New York, NY 10018",3.0,$
